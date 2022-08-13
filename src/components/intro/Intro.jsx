@@ -15,7 +15,8 @@ export default function Intro() {
         "Problem solver",
         "MERN stack Developer",
         "ML enthusiast",
-        "Web Developer"
+        "Web Developer",
+        "and increasing... :)"
       ],
     });
   }, []);
