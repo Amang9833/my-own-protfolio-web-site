@@ -29,7 +29,7 @@ export default function Intro() {
           <div className="img-div">
             <h3>About me :)</h3>
             <p className="myIntro">My Introduction</p>I am an Undergraduate,
-            like to explore new frameworks; learning android; exploring whatever
+            like to explore new frameworks, Ml alogrithms, exploring whatever
             interests me, with a versatile mind.
             <div className="qualification">
               <p className="education">Education</p>
