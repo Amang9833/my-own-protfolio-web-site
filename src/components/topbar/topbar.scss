@@ -80,6 +80,7 @@
         flex-direction: column;
         justify-content: space-between;
         cursor: pointer;
+        overflow-y: hidden;
 
         span {
           width: 100%;
